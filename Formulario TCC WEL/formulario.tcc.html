@@ -1,0 +1,182 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Formulario TCC</title>
+<link href="css/formulario.tcc.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+	<form action="#" name="form_tcc=" method="post">
+	<legend>Cadastro de Drogados</legend>
+
+	
+	<div class="form-group">
+		<label for="nome" class="col-2 col-form-label">Nome:</label>
+		<div class="col-7">
+		<input class="form-control" type="text" name="nome" id="nome" required>
+	</div>
+	</div>
+	
+	<div class="form-group">
+		<label class="col-2 col-form-label" for="email">Email:</label>
+	<div class="col-7">	
+		<input class="form-control" type="email" name="email" id="email" required>
+	</div>
+	</div>
+	
+	<!--ESCOLHA UNICA-->
+ 	
+  <div  class="form-check">
+		<label  class="form-check-label" for="genero">1-SEXO
+	<p>	<input  class="form-check-input" type="radio" name="masc" value="Masculino" checked="">Masculino</p>
+	</label>
+	</div>
+
+	<div class="form-check">
+	<label class="form-check-label">
+		<p><input  class="form-check-input" type="radio" name="fem" value="feminino">Feminino</p>
+		</label>
+		</div>
+
+	<div class="form-check">
+	<label class="form-check-label">
+		<p><input  class="form-check-input" type="radio" name="outros" value="outros">Outros</p>
+	</label>
+	</div>
+  	<!--FECHA ESCOLHA UNICA-->
+ 	
+ 	<!--DATA DE NASCIMENTO-->
+	<div class="form-group row">
+		<label for="data">2-Data de Nascimento</label>
+	<p><div class="col-sm-10"></p>
+		<input type="date" name="data" id="data" required>
+	</div>
+	</div>
+	<!--FECHA DATA-->
+  
+  <div>
+	  <label class="custom-control custom-radio" for="3">3-Você considera ÁLCOOL e CIGARRO como droga?
+	<p>
+		<input checked="" class="custom-control-input" type="radio" name="sim" value="opcao">SIM 
+		 <span class="custom-control-indicator"></span>
+		 <span class="custom-control-description"></span>
+		</label>
+	
+	<label class="custom-control custom-radio">
+		<input class="custom-control-input" type="radio" name="nao" value="opcao">NÃO
+		<span class="custom-control-indicator"></span>
+  		<span class="custom-control-description"></span>
+	</p>
+	</label>	
+	</div>
+					<!--       FECHA            -->
+	<!--    ABRE    -->
+	<div>
+		<label class="custom-control custom-radio" for="4">4-Você já consumiu algum tipo de ALCOOL OU DROGAS?
+	<p>
+		<input class="custom-control-input" type="radio" name="sim" value="sim">SIM
+		 <span class="custom-control-indicator"></span>
+		 <span class="custom-control-description"></span>
+		</label>
+	<label class="custom-control custom-radio">
+		<input class="custom-control-input" type="radio" name="nao" value="nao">NÃO
+		<span class="custom-control-indicator"></span>
+  		<span class="custom-control-description"></span>
+	</p>
+	</div>
+		<!-- FECHA -->
+
+		<!-- ABRE -->
+	<label for="5">5-Se você respondeu sim, onde você iniciou esse tipo de consumo?</label>
+		<p><select class="custom-select" name="opcao" id="opcao">
+		<option selected="">ABRA ESTE MENU!</option>
+		<option value="no ambiente familiar">No ambiente familiar</option>
+		<option value="em rodas com amigos">Em rodas com amigos</option>
+		<option value="no ambiente escolar">No ambiente escolar</option>
+		<option value="outros">Outros</option>
+		</select></p>
+		<!-- FECHA -->
+
+		<!-- ABRE -->
+	<div>
+	<label class="custom-control custom-radio" for="6">6-Você fuma ou já fumou cigarro?
+	<p>
+		<input class="custom-control-input" type="radio" name="sim" value="sim">SIM
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+		</label>
+	<label class="custom-control custom-radio">
+		<input class="custom-control-input" type="radio" name="nao" value="nao">NÂO
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+	</p>
+	</label>
+	</div>
+		<!-- FECHA -->
+
+		<!--ABRE-->
+	<div>	
+	<label class="custom-control custom-radio" for="7">7-Você bebe algum tipo de bebida alcólica
+	<p>
+		<input class="custom-control-input" type="radio" name="sim" value="sim">SIM
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+		</label>
+	<label class="custom-control custom-radio">	
+		<input type="radio" name="nao" value="nao">NÂO
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+	</p>
+	</label>
+	</div>
+		<!--FECHA-->
+
+		<!-- ABRE -->
+	<p>
+		<label for="8">8-Você possui conhecimento do que os usos desses tipos de drogas prejudicaram o organismo do ser humano. Qual das opção a baixo você não conhece? </label>
+	</p>
+    <p>
+	    <select class="custom-select" name="" id="">
+			<option selected="">ABRA ESTE MENU!</option>
+			<option value="cigarro">Cigarro</option>
+			<option value="maconha">Maconha</option>
+			<option value="lsd">LSD</option>
+			<option value="anfetamina">anfetamina</option>
+		</select>
+		</p>	
+		<!-- FECHA -->
+	
+		<!--ABRE-->
+	<div>
+	<label class="custom-control custom-radio" for="9">9-Em seu ambiente familiar existe alguém com problemas relacionados ao uso de álcool ou cigarro?
+	<p>
+		<input class="custom-control-input" type="radio" name="sim" value="sim">SIM
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+		</label>
+	<label class="custom-control custom-radio">
+		<input class="custom-control-input" type="radio" name="nao" value="nao">NÂO
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description"></span>
+	</p>
+	</label>
+	</div>	
+		<!-- FECHA -->	
+	
+	<!-- ABRE -->
+	<p>
+		<label for="10">10-Em sua opnião você acha que o álcool e o cigarro deveria ser proibidas por lei para qualquer faixa etária? Se sim nos diga o porquê?</label>
+	</p>
+	<div class="form-group">
+	<p>
+		<textarea name="comentario" id="" cols="30" rows="10" placeholder="Digite seu comentario aqui..." required></textarea>
+	</p>
+	</div>	
+	
+	<P>
+	<button type="enviar" class="btn btn-primary">Enviar</button>
+	</p>
+</form>
+</body>
+</html>

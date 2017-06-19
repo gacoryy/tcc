@@ -1,0 +1,122 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="drugs.html" resolutions="1x" timestamp="1497039979677">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="540052" ref="sugestões:sobre:galeria:index:contato"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="125342082" ref="sugestões:sobre:galeria:index:contato"/>
+    <file name="sugest_es.css" crc="384921575" ref="sugestões"/>
+    <file name="nomq_sugest_es.css" crc="52568952" ref="sugestões"/>
+    <file name="sobre.css" crc="4053085047" ref="sobre"/>
+    <file name="nomq_sobre.css" crc="4144638858" ref="sobre"/>
+    <file name="galeria.css" crc="4160407902" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="455405764" ref="galeria"/>
+    <file name="index.css" crc="281519949" ref="index"/>
+    <file name="nomq_index.css" crc="137001564" ref="index"/>
+    <file name="contato.css" crc="5099990" ref="contato"/>
+    <file name="nomq_contato.css" crc="199157853" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="museutils.js" crc="4148063285" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="museconfig.js" crc="172512987" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:galeria:sobre:contato"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="webpro.js" crc="3986320349" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="require.js" crc="4159430777" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="galeria"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="galeria"/>
+    <file name="touchswipe.js" crc="221459597" ref="galeria"/>
+    <file name="form_check.php" crc="303648844" ref="contato"/>
+    <file name="form_throttle.php" crc="236764551" ref="contato"/>
+    <file name="form_process.php" crc="4272079531" ref="contato"/>
+    <file name="form-u5792.php" crc="150983815" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:sugestões:galeria:sobre:contato"/>
+    <file name="ajude-sempre.jpg" crc="3765108721" ref="index"/>
+    <file name="05.jpg" crc="20584836" ref="index"/>
+    <file name="06.jpg" crc="135941687" ref="index"/>
+    <file name="prazer.jpg" crc="3863039137" ref="index"/>
+    <file name="cigarro.jpg" crc="4053107315" ref="index"/>
+    <file name="1392925482.jpg" crc="300918959" ref="index"/>
+    <file name="psiquiatria-rj-luto.jpg" crc="3972441880" ref="index"/>
+    <file name="menu.png" crc="63308640" ref="index:sugestões"/>
+    <file name="closee.png" crc="59624885" ref="index:sugestões"/>
+    <file name="05-u1511-fr.jpg" crc="143470315" ref="index"/>
+    <file name="06-u1570-fr.jpg" crc="453155914" ref="index"/>
+    <file name="banner.png" crc="285029376" ref="index:galeria:sobre:contato"/>
+    <file name="download.jpg" crc="393879138" ref="index"/>
+    <file name="images-1.jpg" crc="3980355283" ref="index"/>
+    <file name="images-2.jpg" crc="3810240297" ref="index"/>
+    <file name="download-1.jpg" crc="4087792417" ref="index"/>
+    <file name="19.jpg" crc="225772428" seo="true" ref="index:galeria"/>
+    <file name="banner-u1435-fr.png" crc="87675773" ref="index:galeria:sobre:contato"/>
+    <file name="banner-u1435-fr2.png" crc="3843323914" ref="index"/>
+    <file name="11.jpg" crc="3857913553" seo="true" ref="galeria"/>
+    <file name="12.jpg" crc="236685154" seo="true" ref="galeria"/>
+    <file name="14.jpg" crc="462705984" seo="true" ref="galeria"/>
+    <file name="16.jpg" crc="380760024" seo="true" ref="galeria"/>
+    <file name="17.jpg" crc="4168356184" seo="true" ref="galeria"/>
+    <file name="18.jpg" crc="331176990" seo="true" ref="galeria"/>
+    <file name="20.jpg" crc="240098322" seo="true" ref="galeria"/>
+    <file name="21.jpg" crc="520987194" seo="true" ref="galeria"/>
+    <file name="43674.jpg" crc="529545350" seo="true" ref="galeria"/>
+    <file name="67547u4.jpg" crc="4197046014" seo="true" ref="galeria"/>
+    <file name="escolhida 1.jpg" crc="4251243618" seo="true" ref="galeria"/>
+    <file name="escolhida 2.jpg" crc="4002738868" seo="true" ref="galeria"/>
+    <file name="escolhida 3.jpg" crc="435346672" seo="true" ref="galeria"/>
+    <file name="escolhida 4.jpg" crc="489201246" seo="true" ref="galeria"/>
+    <file name="escolhida 5.jpg" crc="380760024" seo="true" ref="galeria"/>
+    <file name="escolhida 6.jpg" crc="4025540934" seo="true" ref="galeria"/>
+    <file name="escolhida 9.jpg" crc="4215690218" seo="true" ref="galeria"/>
+    <file name="escolhida.jpg" crc="4189063490" seo="true" ref="galeria"/>
+    <file name="esolchida 8.jpg" crc="4127678656" seo="true" ref="galeria"/>
+    <file name="19-crop-u3712.jpg" crc="3881725445" ref="galeria"/>
+    <file name="11-crop-u3979.jpg" crc="4103834389" ref="galeria"/>
+    <file name="12-crop-u4016.jpg" crc="469147986" ref="galeria"/>
+    <file name="14-crop-u4053.jpg" crc="307402401" ref="galeria"/>
+    <file name="16-crop-u4090.jpg" crc="4110368206" ref="galeria"/>
+    <file name="17-crop-u4127.jpg" crc="3988982143" ref="galeria"/>
+    <file name="1860x45.jpg" crc="3796257368" seo="true" ref="galeria"/>
+    <file name="2067x45.jpg" crc="446738966" seo="true" ref="galeria"/>
+    <file name="21-crop-u4238.jpg" crc="216316628" ref="galeria"/>
+    <file name="43674-crop-u4275.jpg" crc="4041334976" ref="galeria"/>
+    <file name="67547u4-crop-u4312.jpg" crc="374790481" ref="galeria"/>
+    <file name="escolhida 1-crop-u4349.jpg" crc="423414338" ref="galeria"/>
+    <file name="escolhida 2-crop-u4386.jpg" crc="297643170" ref="galeria"/>
+    <file name="escolhida 3-crop-u4423.jpg" crc="4122762313" ref="galeria"/>
+    <file name="escolhida 4-crop-u4460.jpg" crc="233972186" ref="galeria"/>
+    <file name="escolhida 5-crop-u4497.jpg" crc="4110368206" ref="galeria"/>
+    <file name="escolhida 660x45.jpg" crc="35432710" seo="true" ref="galeria"/>
+    <file name="escolhida 960x45.jpg" crc="4045345877" seo="true" ref="galeria"/>
+    <file name="escolhida60x45.jpg" crc="3923585624" seo="true" ref="galeria"/>
+    <file name="esolchida 860x45.jpg" crc="418942990" seo="true" ref="galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+    <file name="19231x307.jpg" crc="4039021304" seo="true" ref="galeria"/>
+    <file name="19-crop-u37122.jpg" crc="3881725445" ref="galeria"/>
+    <file name="11-crop-u39792.jpg" crc="4103834389" ref="galeria"/>
+    <file name="12-crop-u40162.jpg" crc="469147986" ref="galeria"/>
+    <file name="14-crop-u40532.jpg" crc="307402401" ref="galeria"/>
+    <file name="16-crop-u40902.jpg" crc="4110368206" ref="galeria"/>
+    <file name="17-crop-u41272.jpg" crc="3988982143" ref="galeria"/>
+    <file name="21-crop-u42382.jpg" crc="216316628" ref="galeria"/>
+    <file name="43674-crop-u42752.jpg" crc="4041334976" ref="galeria"/>
+    <file name="67547u4-crop-u43122.jpg" crc="374790481" ref="galeria"/>
+    <file name="escolhida 1-crop-u43492.jpg" crc="423414338" ref="galeria"/>
+    <file name="escolhida 2-crop-u43862.jpg" crc="297643170" ref="galeria"/>
+    <file name="escolhida 3-crop-u44232.jpg" crc="4122762313" ref="galeria"/>
+    <file name="escolhida 4-crop-u44602.jpg" crc="233972186" ref="galeria"/>
+    <file name="escolhida 5-crop-u44972.jpg" crc="4110368206" ref="galeria"/>
+    <file name="18341746_993947100742149_2998694205939540463_n (1).jpg" crc="3953697905" ref="sobre"/>
+    <file name="17362770_785269621629812_8667704674425222205_n.jpg" crc="463216710" ref="sobre"/>
+  </folder>
+  <file name="index.html" crc="325444928" seo="true" mt="1497039717340" redirect="true"/>
+  <file name="sugestões.html" crc="4121927193" seo="true" mt="1497039717340" redirect="true"/>
+  <file name="galeria.html" crc="513778791" seo="true" mt="1497039717340" redirect="true"/>
+  <file name="sobre.html" crc="281546125" seo="true" mt="1497039717340" redirect="true"/>
+  <file name="contato.html" crc="4285482529" seo="true" mt="1497039825249" redirect="true"/>
+</manifest>
